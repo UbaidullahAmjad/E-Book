@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecomerace.iml" filepath="$PROJECT_DIR$/.idea/modules/ecomerace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ecomerace.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ecomerace.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2116321570/ecomerace.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/2116321570/ecomerace.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/582444533/ecomerace.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/582444533/ecomerace.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1202395655/ecomerace.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1202395655/ecomerace.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-601320697/ecomerace.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-601320697/ecomerace.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2034816286/ecomerace.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2034816286/ecomerace.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3695286/ecomerace.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/3695286/ecomerace.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/761161235/ecomerace.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/761161235/ecomerace.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/348683777/ecomerace.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/348683777/ecomerace.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
